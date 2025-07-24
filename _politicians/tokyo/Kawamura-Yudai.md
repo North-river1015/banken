@@ -2,7 +2,7 @@
 name: 川村　雄大
 prefecture: 東京
 party: 公明党
-photo: /images/jane.jpg
+photo: /assets/images/Kawamura.jpg
 promises:
   - topic: economy
     description: placeholder
@@ -10,3 +10,5 @@ promises:
   - topic: 
     
 ---
+
+
