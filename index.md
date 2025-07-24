@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tokyo politician 
+title: 参院選、東京選挙区
 ---
 
 # 政治家の公約
@@ -10,7 +10,7 @@ title: tokyo politician
 
 ## {{ person.name }}
 
-![{{ person.name }}]({{ person.photo }}){: width="200" }
+/assets/images/Okumura.jpg
 
 **党:** {{ person.party }}
 
@@ -22,6 +22,7 @@ title: tokyo politician
 {% endfor %}
 
 {% endfor %}
+
 
 
 
