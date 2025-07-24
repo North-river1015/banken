@@ -1,0 +1,11 @@
+title: Politician Manifestos
+theme: minima
+markdown: kramdown
+collections:
+  politicians:
+    output: true
+
+
+
+
+
