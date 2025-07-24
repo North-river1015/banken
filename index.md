@@ -3,7 +3,7 @@ layout: default
 title: 参院選、東京選挙区
 ---
 
-# 政治家の公約
+# 参議院選挙　東京選挙区
 
 {% for person in site.politicians %}
 ---
@@ -12,7 +12,7 @@ title: 参院選、東京選挙区
 
 /assets/images/Okumura.jpg
 
-**党:** {{ person.party }}
+{{ person.party }}
 
 ### 公約
 
