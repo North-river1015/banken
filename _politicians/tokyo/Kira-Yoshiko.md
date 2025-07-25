@@ -2,7 +2,7 @@
 name: 吉良　佳子
 prefecture: 東京
 party: 共産党
-photo: /assets/images/Kira.jpg
+photo: ./assets/images/Kira.jpg
 promises:
   - topic: economy
     description: Reduce income tax for low earners

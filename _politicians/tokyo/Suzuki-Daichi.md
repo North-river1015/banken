@@ -2,7 +2,7 @@
 name: 鈴木　大地
 prefecture: 東京
 party: 自民党
-photo: /assets/images/Suzuki.jpg
+photo: ./assets/images/Suzuki.jpg
 promises:
   - topic: economy
     description: Reduce income tax for low earners

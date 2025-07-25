@@ -2,7 +2,7 @@
 name: 塩村　文夏
 prefecture: 東京
 party: 立憲民主党
-photo: /assets/images/Shiomura.jpg
+photo: ./assets/images/Shiomura.jpg
 promises:
   - topic: economy
     description: Reduce income tax for low earners
