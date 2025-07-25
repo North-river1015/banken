@@ -1,6 +1,7 @@
 title: 公約
 theme: minima
 markdown: kramdown
+baseurl: "/banken"
 collections:
   politicians:
     output: true
