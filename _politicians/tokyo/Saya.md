@@ -2,7 +2,7 @@
 name: さや
 prefecture: 東京
 party: 参政党
-photo: ./assets/images/Saya.jpg
+photo: /assets/images/Saya.jpg
 promises:
   - topic: economy
     description: Reduce income tax for low earners
