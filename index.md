@@ -10,8 +10,7 @@ title: 公約
 
 ## {{ person.name }}
 
-![議員の顔写真](
-https://north-river1015.github.io/banken/person.photo){:width="200" }
+![議員の顔写真](https://north-river1015.github.io/banken/person.photo){:width="200" }
 
 
 {{ person.party }}
@@ -24,8 +23,5 @@ https://north-river1015.github.io/banken/person.photo){:width="200" }
 {% endfor %}
 
 {% endfor %}
-
-
-
 
 
