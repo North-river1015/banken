@@ -10,7 +10,7 @@ title: 参院選、東京選挙区
 
 ## {{ person.name }}
 
-![Test](/assets/images/Okumura.jpg){: width="200" }
+![議員の顔写真](person.photo){:width="200" }
 
 
 {{ person.party }}
@@ -23,8 +23,6 @@ title: 参院選、東京選挙区
 {% endfor %}
 
 {% endfor %}
-
-
 
 
 
