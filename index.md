@@ -10,7 +10,7 @@ title: 公約
 
 ## {{ person.name }}
 
-![議員の顔写真](person.photo){:width="200" }
+![議員の顔写真]{person.photo}{:width="200" }
 
 
 {{ person.party }}
