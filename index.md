@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 参院選、東京選挙区
+title: 公約
 ---
 
 # 参議院選挙　東京選挙区
